@@ -5,10 +5,10 @@ This app demonstrates user authentication and CRUD operations on blog posts usin
 
 <img src="screenshots/post_list.jpg" alt="App Demo Screenshot" width="300"/>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/rafi-dev/android-api-task)
-![GitHub issues](https://img.shields.io/github/issues/rafi-dev/android-api-task)
-![GitHub forks](https://img.shields.io/github/forks/rafi-dev/android-api-task?style=social)
-![GitHub stars](https://img.shields.io/github/stars/rafi-dev/android-api-task?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/raffyhidayatulloh/android-post-to-laravel-api)
+![GitHub issues](https://img.shields.io/github/issues/raffyhidayatulloh/android-post-to-laravel-api)
+![GitHub forks](https://img.shields.io/github/forks/raffyhidayatulloh/android-post-to-laravel-api)
+![GitHub stars](https://img.shields.io/github/stars/raffyhidayatulloh/android-post-to-laravel-api)
 
 ---
 
@@ -101,3 +101,8 @@ Update your `RetrofitClient.BASE_URL` with the HTTPS URL provided by ngrok (e.g.
 3. Start ngrok to expose the API
 4. Update the `BASE_URL` in `RetrofitClient`
 5. Run the Android app
+
+---
+
+## 🔗 Related Projects
+📱 Frontend Android Client: [android-post-to-laravel-api](https://github.com/raffyhidayatulloh/android-post-to-laravel-api)
