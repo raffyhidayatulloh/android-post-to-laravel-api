@@ -32,9 +32,6 @@ This app demonstrates user authentication and CRUD operations on blog posts usin
 ### ✍️ Register Screen
 <img src="screenshots/register.jpg" alt="Register Screenshot" width="300"/>
 
-### 📄 Post List
-<img src="screenshots/post_list.jpg" alt="Post List Screenshot" width="300"/>
-
 ### 💳 Account Detail (Authenticated)
 <img src="screenshots/account_detail.jpg" alt="Account Detail Screenshot" width="300"/>
 
