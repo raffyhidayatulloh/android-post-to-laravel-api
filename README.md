@@ -3,7 +3,7 @@
 A simple Android application that communicates with a **Laravel** backend using **Retrofit** over a RESTful API.  
 This app demonstrates user authentication and CRUD operations on blog posts using token-based authentication.
 
-![App Demo Screenshot](screenshots/post_list.jpg)
+<img src="screenshots/post_list.jpg" alt="App Demo Screenshot" width="300"/>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/rafi-dev/android-api-task)
 ![GitHub issues](https://img.shields.io/github/issues/rafi-dev/android-api-task)
@@ -27,16 +27,16 @@ This app demonstrates user authentication and CRUD operations on blog posts usin
 ## 🖼️ App Screenshots
 
 ### 🔐 Login Screen
-![Login](screenshots/login.jpg)
+<img src="screenshots/login.jpg" alt="Login Screenshot" width="300"/>
 
 ### ✍️ Register Screen
-![Register](screenshots/register.jpg)
+<img src="screenshots/register.jpg" alt="Register Screenshot" width="300"/>
 
 ### 📄 Post List
-![Post List](screenshots/post_list.jpg)
+<img src="screenshots/post_list.jpg" alt="Post List Screenshot" width="300"/>
 
 ### 💳 Account Detail (Authenticated)
-![Account Detail](screenshots/account_detail.jpg)
+<img src="screenshots/account_detail.jpg" alt="Account Detail Screenshot" width="300"/>
 
 ---
 
