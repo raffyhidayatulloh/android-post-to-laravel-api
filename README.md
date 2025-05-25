@@ -106,3 +106,4 @@ Update your `RetrofitClient.BASE_URL` with the HTTPS URL provided by ngrok (e.g.
 
 ## 🔗 Related Projects
 📱 Frontend Android Client: [android-post-to-laravel-api](https://github.com/raffyhidayatulloh/android-post-to-laravel-api)
+🛠️ Backend API: [laravel-api-for-android-post](https://github.com/raffyhidayatulloh/laravel-api-for-android-post)
