@@ -2,10 +2,10 @@
 
 **Android app** connecting with a **Laravel RESTful API** via **Retrofit2**, demonstrating **user authentication** and **CRUD operations on blog posts** using token-based authentication.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/raffyhidayatulloh/android-post-to-laravel-api)
-![GitHub issues](https://img.shields.io/github/issues/raffyhidayatulloh/android-post-to-laravel-api)
-![GitHub forks](https://img.shields.io/github/forks/raffyhidayatulloh/android-post-to-laravel-api)
-![GitHub stars](https://img.shields.io/github/stars/raffyhidayatulloh/android-post-to-laravel-api)
+![GitHub repo size](https://img.shields.io/github/repo-size/raffyhidayatulloh/posts-app)
+![GitHub issues](https://img.shields.io/github/issues/raffyhidayatulloh/posts-app)
+![GitHub forks](https://img.shields.io/github/forks/raffyhidayatulloh/posts-app)
+![GitHub stars](https://img.shields.io/github/stars/raffyhidayatulloh/posts-app)
 
 ---
 
