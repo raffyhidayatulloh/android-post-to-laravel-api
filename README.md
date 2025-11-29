@@ -96,6 +96,6 @@ Update `RetrofitClient.BASE_URL` with the HTTPS URL provided by ngrok (e.g., `ht
 
 ## 📸 App Screenshots
 
-| Login Screen | Register Screen | Main Activity | Account Detail |
+| Login Screen | Register Screen | Main Activity | Profile |
 |--------------|-----------------|---------------|--------------------------------|
 | <img src="ss/login.jpg" alt="Register" width="250"/> | <img src="ss/register.jpg" alt="Login" width="250"/> | <img src="ss/post_list.jpg" alt="Main" width="210"/> | <img src="ss/account_detail.jpg" alt="Account Detail" width="250"/>|
